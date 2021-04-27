@@ -7,7 +7,8 @@
 ## How to Use? 
 
 1. Clone the Repo.
-2. Install the Required modules by using ```pip install -r requirements.txt```
+2. Create and Activate a virtual environment for this project by using ```virtualenv venv``` and ```source venv/bin/activate``` or ```venv\Scripts\activate```
+3. Install the Required modules by using ```pip install -r requirements.txt```
 4. Just Run/Execute the ```main.py``` Python Program by using ```python main.py``` 
 
 
