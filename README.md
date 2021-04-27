@@ -1,6 +1,6 @@
 # Python Personal Voice Assistant 🎤🤖
 
-<i><p>It's a python project which detects your voice inputs from your mic and respond according to that command in realtime  from the webcam. This Project uses  Python, PySpeechRecognition, PyWhatKit, PyWikipedia etc. mentioned in the ```requirements.txt```</p></i>
+<i><p>It's a python project which detects your voice inputs from your mic and respond according to that command in realtime and perform certain tasks. This Project uses  Python, PySpeechRecognition, PyWhatKit, PyWikipedia etc. mentioned in the ```requirements.txt```</p></i>
 
 -------------
 
